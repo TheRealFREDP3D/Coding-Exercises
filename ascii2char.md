@@ -5,7 +5,7 @@ reference: https://cryptohack.org/courses/intro/enc1/
 type: code/python
 ---
 
-# 3 - ASCII
+# ascii2char.py
 
 - ASCII is a 7-bit encoding standard
 - Representation of text using the integers 0-127.
