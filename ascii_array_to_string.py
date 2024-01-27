@@ -1,3 +1,15 @@
+# -----------------------------------------------------------------------------------------------------------
+# ascii_array_to_string.py
+# Author: Frederick Pellerin
+# http://github.com/TheRealFREDP3D
+# -----------------------------------------------------------------------------------------------------------
+# This script defines a function ascii_array_to_string() that takes an ASCII integer array as input.
+# It then iterates through each integer in the array, converts it to its corresponding character using chr(),
+# and appends it to a string. 
+# Finally, it returns the resulting character string.
+# -----------------------------------------------------------------------------------------------------------
+
+
 def ascii_array_to_string(ascii_array):
     # Initialize an empty string to store the converted characters
     char_string = ""
