@@ -43,7 +43,7 @@ def ascii_array_to_string(ascii_array):
     # Return the resulting character string
     return char_string
 
-# Example usage:
+
 # Define an ASCII integer array
 ascii_array = [72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100]
 
