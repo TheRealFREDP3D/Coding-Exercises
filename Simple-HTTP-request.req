@@ -1,0 +1,4 @@
+GET / HTTP/1.1                                                                             │└─$ curl--help
+User-Agent: curl/7.37.1                                                                        │curl--help: command not found
+Host: 127.0.0.1                                                                                │                                                                                               
+Accept: */*
