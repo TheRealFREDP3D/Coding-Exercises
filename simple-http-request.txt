@@ -1,3 +1,6 @@
+// A basic request made to be piped into nc
+// $ nc localhost 80 < simple-http-request.request.txt
+
 GET / HTTP/1.1                                                                             │└─$ curl--help
 User-Agent: curl/7.37.1                                                                        │curl--help: command not found
 Host: 127.0.0.1                                                                                │                                                                                               
