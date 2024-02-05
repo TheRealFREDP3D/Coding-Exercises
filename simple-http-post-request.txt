@@ -1,0 +1,11 @@
+// A basic request made to be piped into nc
+// $ nc localhost 80 < http-get-request.txt
+
+
+POST /flag HTTP/1.1
+Host: 127.0.0.1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 134
+
+a=login_fail.asp&b=
+
