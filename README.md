@@ -2,8 +2,10 @@
 
 ---
 
-A good way to learn coding is to code.
-Here are the results of my training. Things I did while taking courses, doing CTF or personal projects.
+> A good way to learn coding is to code. 
+
+Here are the results of my training exercises. 
+Things I did while taking courses, doing CTFs and some personal projects. 
 
 ---
 
