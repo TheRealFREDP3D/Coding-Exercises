@@ -28,7 +28,7 @@ def ascii_array_to_string(ascii_array):
 
 # Example usage:
 # Define an ASCII integer array
-ascii_array = [72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100]
+ascii_array = [83, 116, 97, 114, 114, 121, 78, 105, 103, 104, 116, 86, 97, 110, 71, 111, 103, 104]
 
 # Convert the ASCII integer array to a character string
 result_string = ascii_array_to_string(ascii_array)
