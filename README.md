@@ -2,23 +2,18 @@
 
 ---
 
-A good way to learn coding is to code.
-Here is the results of me training by coding some tools. 
+> A good way to learn coding is to code. 
+
+Here are the outcomes from my training endeavours, encompassing activities undertaken during courses, engagements in CTF challenges, and various personal projects.
 
 ---
 
 ## Goals
 
-- Make my tools available from anywhere to anyone.
-- Prepare a publishable notebook
-- Make good documentation
-- Publish a GitBook, Wiki, Pages, Medium articles
+- Make my tools available to anyone, from anywhere.
+- Reference material and notes.
+- Prepare a publishable notebook.
+- Practice making good documentation.
+- Create content for GitBook, Wiki, Pages, Medium articles, etc.
 
 ---
-
-## Language
-
-### Python
-
-|        Filename           :|:      Description                |
-|  ascii_array_to_string.py  |  Convert ASCII Code --> String   |
