@@ -4,6 +4,8 @@
 
 > A good way to learn coding is to code. 
 
+---
+
 Here are the outcomes from my training endeavours, encompassing activities undertaken during coding courses and engagements in CTF/Challenges.
 
 ---
