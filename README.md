@@ -4,7 +4,7 @@
 
 > A good way to learn coding is to code. 
 
-Here are the outcomes from my training endeavours, encompassing activities undertaken during courses, engagements in CTF challenges, and various personal projects.
+Here are the outcomes from my training endeavours, encompassing activities undertaken during coding courses and engagements in CTF/Challenges.
 
 ---
 
@@ -17,3 +17,15 @@ Here are the outcomes from my training endeavours, encompassing activities under
 - Create content for GitBook, Wiki, Pages, Medium articles, etc.
 
 ---
+
+## I needed a solution to solve a problem at:
+
+[https://CryptoHack.com](Cryptohack)
+[https://WeChall.net](WeChall)
+[https://Hackthebox.com](Hackthebox)
+[https://Tryhackme.com](Tryhackme)
+[https://pwn.college.com](pwn.college)
+[https://Hackviser.com](Hackviser)
+[https://Root-me.org](Root-me)
+[https://guyinatuxedo.github.io](Nightmare)
+[https://online.pwntilldawn.com](Pwntilldawn)
