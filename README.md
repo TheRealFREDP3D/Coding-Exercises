@@ -6,13 +6,15 @@
 
 ---
 
-Here are the outcomes from my training endeavours, encompassing activities undertaken during coding courses and engagements in CTF/Challenges.
+Here are the outcomes from my coding experimentation, encompassing activities undertaken during coding courses, engagements in CTF and diverse Challenges.
 
 ---
 
-## Goals
+## Why I Created this Repository
 
-- Make my tools available to anyone, from anywhere.
+I am a big fan of the "Learn in Public" principles. It put some pressure to share good and working stuff. By sharing the results of my work, it creates networking opportunities. It can inspire people to start their own learning projects. It is a good way to show potential employer your skills or at least you appetite to learn. And finally, self-learners like me should have a way to monitor their progress.  
+
+- Make my work available to anyone, from anywhere.
 - Reference material and notes.
 - Prepare a publishable notebook.
 - Practice making good documentation.
