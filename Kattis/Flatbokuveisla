@@ -1,0 +1,18 @@
+# This script takes input for the number of slices of pizza and the number of residents.
+# It calculates and prints the number of leftover slices after dividing the number of slices by the number of residents.
+
+n = input("Number of slices: ")
+m = input("Number of residents: ")
+
+# print(type(n))
+# print(type(m))
+
+# This code snippet calculates the remainder
+# when the integer n is divided by the integer m.
+# "modulus"
+# The function int() is used to convert the string
+# into an integer.
+
+left_over = int(n) % int(m)
+
+print(left_over)
