@@ -1,7 +1,9 @@
 # Echo Chamber
 # https://microsoft.github.io/CopilotAdventures/Adventures/StartHere.html
 #
-# A program that predicts the next number in the sequence by finding the difference between the first two numbers and adding that difference to the last number in the sequence.
+# A program that predicts the next number in the sequence by finding the difference 
+# between the first two numbers and adding that difference to the last number in the sequence.
+# 
 # Input: A list of numbers that includes the first two numbers in the sequence
 # Output: A list of numbers that includes the next number in the sequence   
 # ---------------------------------------------------------------------------------
@@ -42,3 +44,4 @@ print("Prediction: " + str(predict_next(echoes)))
 print("*******************")
 # print memories
 print("Memories: " + str(memories))
+print("********************")
