@@ -10,5 +10,4 @@ base10_msg = (115151950638623188999316854888137473957755162872896826364999652827
 flag = base10_msg.to_bytes(33, "big")
 
 # Print the resulting byte string
-print("Flag:")
-print(flag)
+print(f'Flag: {flag}')

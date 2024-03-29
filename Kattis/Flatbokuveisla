@@ -15,4 +15,4 @@ m = input("Number of residents: ")
 
 left_over = int(n) % int(m)
 
-print(left_over)
+print(f'leftover: {left_over}')
