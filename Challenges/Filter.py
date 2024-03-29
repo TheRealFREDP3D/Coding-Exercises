@@ -1,4 +1,4 @@
-#! /usr/bin/python3
+#!/usr/bin/python3
 
 # 1. list all prime number between 1337 and 148608
 # 2. Add all these numbers
