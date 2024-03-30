@@ -4,14 +4,9 @@
 n = input("Number of slices: ")
 m = input("Number of residents: ")
 
-# print(type(n))
-# print(type(m))
-
-# This code snippet calculates the remainder
-# when the integer n is divided by the integer m.
+# Calculate the remainder when the integer n is divided by the integer m.
 # "modulus"
-# The function int() is used to convert the string
-# into an integer.
+# The function int() converts the strings into integers.
 
 left_over = int(n) % int(m)
 
