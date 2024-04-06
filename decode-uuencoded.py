@@ -17,3 +17,4 @@ def decode_uuencoded(data):
 encoded_data = ',5&AE2VES<TML:6UT'  # Replace this with your encoded data
 decoded_data = decode_uuencoded(encoded_data)
 print(decoded_data)
+    

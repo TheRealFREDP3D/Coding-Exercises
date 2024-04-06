@@ -1,4 +1,7 @@
-/WORK-IN-PROGRESS
 /.vscode
 /.dist
 /.idea
+/.WORK-IN-PROGRESS/
+/.husky
+/.templates
+/node_modules

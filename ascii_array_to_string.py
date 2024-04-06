@@ -1,15 +1,16 @@
 """
 |------------------------------------------------------------------------------------------------------------|
-- Script Name: ascii_array_to_string.py                                                                      -
+- Python 3.x.x - ascii_array_to_string.py                                                                      -
 | Author: Frederick Pellerin                                                                                 |
 - GitHub: https://github.com/TheRealFREDP3D                                                                  -
-| Portfolio: https://link.gallery/therealfredp3d                                                             |
+| Twitter: https://twitter.com/TheRealFredP3D 
 --------------------------------------------------------------------------------------------------------------
-Description:                                                                                               |
-- This script is designed to convert an array of ASCII integer values into a string. It works by iterating -
+|
+- This script is designed to convert an array of ASCII integer values into a string. It works by iterating   -
 | through each integer in the provided array, converting each integer to its corresponding ASCII character   |
 - using the chr() function, and concatenating these characters into a single string. The final output is     -
 | the assembled character string, representing the original ASCII values in textual form.                    |
+-
 --------------------------------------------------------------------------------------------------------------
 """
 

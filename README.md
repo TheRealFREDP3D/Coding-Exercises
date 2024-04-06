@@ -10,11 +10,27 @@ Here are the outcomes from my coding experimentation, encompassing activities un
 
 ---
 
-## Why I Created this Repository
+## Why
 
-I am a big fan of the "Learn in Public" principles. It put some pressure to share good and working stuff. By sharing the results of my work, it creates networking opportunities. It can inspire people to start their own learning projects. It is a good way to show potential employer your skills or at least you appetite to learn. And finally, self-learners like me should have a way to monitor their progress.  
+I am a big fan of the "Learn in Public" principles.
 
-- Make my work available to anyone, from anywhere.
+It put some pressure to share quality work. 
+
+Showing what I do can help creating networking opportunities. 
+
+It can inspire people to start their own learning projects. 
+
+It is a good way to show potential employer your skills or at least you appetite to learn new ones.
+
+Self-learners like me should have a way to monitor their progress.
+
+Keep me on track, finish things before moving to the next.
+
+Simplify files management
+
+
+## End-Game
+
 - Reference material and notes.
 - Prepare a publishable notebook.
 - Practice making good documentation.
@@ -22,14 +38,26 @@ I am a big fan of the "Learn in Public" principles. It put some pressure to shar
 
 ---
 
-## I needed a solution to solve a problem at:
+## Good places to learn
 
-[https://CryptoHack.com](Cryptohack)
-[https://WeChall.net](WeChall)
-[https://Hackthebox.com](Hackthebox)
-[https://Tryhackme.com](Tryhackme)
-[https://pwn.college.com](pwn.college)
-[https://Hackviser.com](Hackviser)
-[https://Root-me.org](Root-me)
-[https://guyinatuxedo.github.io](Nightmare)
-[https://online.pwntilldawn.com](Pwntilldawn)
+(https://CryptoHack.com)[Cryptohack]
+
+(https://WeChall.net)[WeChall]
+
+(https://Hackthebox.com)[Hackthebox]
+
+(https://Tryhackme.com)[Tryhackme]
+
+(https://pwn.college.com)[pwn.college]
+
+(https://Hackviser.com)[Hackviser]
+
+(https://Root-me.org)[Root-me]
+
+(https://guyinatuxedo.github.io)[Nightmare]
+
+(https://online.pwntilldawn.com)[Pwntilldawn]
+
+(https://learn.microsoft.com)[Microsoft-Learn]
+
+---

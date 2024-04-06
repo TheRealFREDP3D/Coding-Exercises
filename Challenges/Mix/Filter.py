@@ -14,6 +14,7 @@ range_min = 1337
 range_max = 148608
 prime_numbers = []
 total_sum = 0
+numbers_count = 0
 flag = 0
 
 # This code snippet defines a function is_prime that checks if
@@ -28,17 +29,19 @@ def is_prime(num):
             return False
     return True
 
-
+# If a number is prime, add it's value to the total_sum variable.
 for num in range(range_min, range_max):
     if is_prime(num):
         prime_numbers.append(num)
         total_sum += num
         
-        print(f"Prime number between {range_min} and {range_max} found: {num}")        
+        print(f"Prime number between {range_min} and {range_max} found: {num}")
+        print(f"Total is now:                            {total_sum}")
+        print(f"****************************************************")        
 
-print("------------------------------------------\n")
-print(f"Sum of all prime numbers: {total_sum}")
-print("------------------------------------------\n")
+print("\n\n\n\n\n\n\n\n\n\n-------------------------------------")
+print(f"Sum of all prime numbers: {total_sum} - 966923583 =")
+print("-------------------------------------")
 
 flag = total_sum - 966923583
 

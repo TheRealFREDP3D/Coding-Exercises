@@ -1,7 +1,8 @@
 ---
-title: 2. Module 1 - Basic Concepts
-aliases: [2. Module 1 - Basic Concepts]
+title: Module 1 - Basic Concepts
+aliases: [Zero to Certified Entry-Level Python Programmer - PCEP]
 linter-yaml-title-alias: 2. Module 1 - Basic Concepts
+tags: [udemi, python, course/video, course/full, pcep, certification, programming, print, input, variables, operators, strings, integer, float, boolean, fstrings, numeral-systems, assignments, shortcuts]
 ---
 
 # Module 1 - Basic Concepts
@@ -9,7 +10,6 @@ linter-yaml-title-alias: 2. Module 1 - Basic Concepts
 ![alt text](image.png)
 
 ---
-
 
 ## Summary
 
@@ -41,7 +41,7 @@ sample_string = 'Hello!'
 
 print('Hello!')      # print 'Hello!'
 
-# Hello!
+# >>> Hello!
 
 ```
 
@@ -49,7 +49,7 @@ print('Hello!')      # print 'Hello!'
 
 print('Hello!', 'Nice to see you.')
 
-# Hello! Nice to see you.
+# >>> Hello! Nice to see you.
 
 ```
 
@@ -61,15 +61,12 @@ print('Hello!', 'Nice to see you.')
 
 user_name = input('What\'s your name? ')
 
-print(f'Hi! {user_name})
+print(f'Hi! {user_name}')
 
-# What is your name? Fred
-
-# Hi! Fred
+# >>> What is your name? Fred
+# >>> Hi! Fred
 
 ```
-
----
 
 ### Numeral Systems
 
@@ -87,18 +84,18 @@ sample_decimal = 12
 
 ---
 
-### Strings Adddition
+### Strings Addition
 
 ```python
 msg = 'Hello'+' '+'World!'
-# Hello World
+# >>> Hello World
 ```
 
 ## Strings Multiplication
 
 ```python
 msg = "one" * 3
-# oneoneone
+# >>> oneoneone
 ```
 
 ---
@@ -125,12 +122,13 @@ age /= 25
 
 ## Division
 
-Division operations produce a float. Ex.: 21/7 = 3.0
+Division operations produce a float. 
+21/7 = 3.0
 
 ### Operations
 
-  /: simple division  
+ /: simple division  
 //: integer division  
-%:  modulo
+ %: modulo
 
 ---
