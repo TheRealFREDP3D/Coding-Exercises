@@ -15,7 +15,7 @@ total_value = pesos_value + soles_value + reais_value
 print("***************************************************")
 print(f"{pesos} pesos x {pesos_rate} = {pesos_value} USD")
 print(f"{soles} soles x {soles_rate} = {soles_value} USD")
-print(f"{pesos} pesos x {reais_rate} = {reais_rate} USD")
+print(f"{pesos} pesos x {reais_rate} = {reais_value} USD")
 print("***************************************************")
 print(f"The total value of your trip leftovers is: {total_value} USD")
 print("***************************************************")
