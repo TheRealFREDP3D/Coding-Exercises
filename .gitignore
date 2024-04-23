@@ -2,6 +2,5 @@
 /.dist
 /.idea
 /.WORK-IN-PROGRESS/
-/.husky
-/.templates
-/node_modules
+
+
