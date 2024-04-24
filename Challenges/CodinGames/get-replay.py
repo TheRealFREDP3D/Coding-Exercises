@@ -5,6 +5,7 @@
 - GitHub: https://github.com/TheRealFREDP3D                                  -
 - Twitter: https://twitter.com/TheRealFredP3D                                - 
 ------------------------------------------------------------------------------
+- Reference: https://www.codingame.com/                                      -
 - This script uses requests module to make a POST request with the user's    -
 - ID and game ID to the CodinGame platform. The response is a JSON containing-
 - the replay for the given game. The script then saves the replay in a file  -
@@ -12,6 +13,7 @@
 ------------------------------------------------------------------------------
 - Usage:                                                                     -
 - Change user_ID, game_id and 'rememberMe' cookie and run the script.        -
+- The script requires the 'json' and 'requests' modules                      -
 ------------------------------------------------------------------------------
 """
 
@@ -21,8 +23,12 @@ import requests as re
 user_ID = 0     # <*****
 game_id = 0     # <*****
 
-# Create a persistent session
-# The 'rememberMe' cookie is set to authenticate the user. 
+"""
+Create a persistent session
+The 'rememberMe' cookie is set to authenticate the user. 
+The session is used to make a persistent connection to the site, allowing
+the script to reuse the same session across multiple requests.
+"""
 with re.Session() as s:
     s.cookies.set('rememberMe', 'CHANGE-ME',       # <*****
                   domain='codingame.com')
@@ -34,20 +40,12 @@ with re.Session() as s:
     
 replay = r.json()
 
+"""
+The JSON replay is printed to the console and saved in a file.
+"""
 print(replay)
 
 with open(f'{game_id}.json', 'w+') as f:
     f.write(json.dumps(replay))
 
-+-                                                                            -
-+-                                                    -
-+-                                                                            -
-+-                   -
-+-                                                                            -
-+- The session is used to make a persistent connection to the site, allowing  -
-+- the script to reuse the same session across multiple requests.           -
-+-                                                                            -
-+- The JSON replay is printed to the console and saved in a file.            -
-+-                                                                            -
-+- The script requires the 'json' and 'requests' modules.                    -
-+- The session is automatically closed when the script finishes.   
+print(f"Saved replay in file: {game_id}.json")
