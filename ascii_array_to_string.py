@@ -1,4 +1,4 @@
-"""
+'''
 |------------------------------------------------------------------------------------------------------------|
 - Python 3.x.x - ascii_array_to_string.py                                                                      -
 | Author: Frederick Pellerin                                                                                 |
@@ -12,11 +12,11 @@
 | the assembled character string, representing the original ASCII values in textual form.                    |
 -
 --------------------------------------------------------------------------------------------------------------
-"""
+'''
 
 def ascii_array_to_string(ascii_array):
     # Initialize an empty string to store the converted characters
-    char_string = ""
+    char_string = ''
     
     # Iterate through each integer in the ASCII array
     for ascii_val in ascii_array:
@@ -36,4 +36,4 @@ ascii_array = [83, 116, 97, 114, 114, 121, 78, 105, 103, 104, 116, 86, 97, 110, 
 result_string = ascii_array_to_string(ascii_array)
 
 # Print the resulting string
-print("Resulting String:", result_string)
+print('Resulting String:', result_string)

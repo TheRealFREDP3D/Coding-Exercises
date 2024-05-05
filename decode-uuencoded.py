@@ -1,7 +1,7 @@
 import binascii
 
 def decode_uuencoded(data):
-    """
+    '''
     Decode the input data using UU encoding.
 
     Args:
@@ -9,7 +9,7 @@ def decode_uuencoded(data):
 
     Returns:
     - decoded_data: the decoded binary data
-    """
+    '''
     decoded_data = binascii.a2b_uu(data)
     return decoded_data
 

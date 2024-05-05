@@ -1,14 +1,14 @@
 # -----------------------------------------------------------------------------
 # input() function
 # -----------------------------------------------------------------------------
-print("What's your name?")
+print('What's your name?')
 user_name = input()
 print(f'Hello {user_name}!')
 # What's your name?
 # fred
 # Hello fred!
 # -----------------------------------------------------------------------------
-user_name = input("What's your name? ")
+user_name = input('What's your name? ')
 print(f'Hello {user_name}!')
 # -----------------------------------------------------------------------------
 # What's your name? fred

@@ -1,3 +1,15 @@
+---
+title: README
+tags: []
+reference:
+last-modified:
+status:
+aliases: [Coding Exercises]
+linter-yaml-title-alias: Coding Exercises
+date of creation: Saturday, April 6th 2024, 9:58:19 am
+date modified: Sunday, May 5th 2024, 1:43:09 am
+---
+
 # Coding Exercises
 
 ---
@@ -12,7 +24,7 @@ Here are the outcomes from my coding experimentation, encompassing activities un
 
 ## Why
 
-I am a big fan of the "Learn in Public" principles.
+I am a big fan of the 'Learn in Public' principles.
 
 It put some pressure to share quality work. 
 
@@ -28,7 +40,6 @@ Keep me on track, finish things before moving to the next.
 
 Simplify files management
 
-
 ## End-Game
 
 - Reference material and notes.
@@ -38,7 +49,7 @@ Simplify files management
 
 ---
 
-## Good places to learn
+## Good Places to Learn
 
 (https://CryptoHack.com)[Cryptohack]
 

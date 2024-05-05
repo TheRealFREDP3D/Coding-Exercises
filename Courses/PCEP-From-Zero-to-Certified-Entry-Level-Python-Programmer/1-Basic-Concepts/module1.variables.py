@@ -19,11 +19,11 @@
 # -------------------------------------------------------------------------------------------------
 # CODE
 # -------------------------------------------------------------------------------------------------
-greeting = "Hello Friend!"  # variable name = variable value
-print("greeting")  # print the word greeting
+greeting = 'Hello Friend!'  # variable name = variable value
+print('greeting')  # print the word greeting
 print(greeting)  # print var. value
-greeting = "Hi, everybody!"  # new value
-print(f"{greeting}")  # print new value, f'string
+greeting = 'Hi, everybody!'  # new value
+print(f'{greeting}')  # print new value, f'string
 # >>>              greeting
 # >>>         Hello Friend!
 # >>>        Hi, everybody!

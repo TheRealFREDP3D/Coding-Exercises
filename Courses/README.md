@@ -1,3 +1,15 @@
+---
+title: README
+tags: []
+reference:
+last-modified:
+status:
+aliases: [Courses Exercises/Notes]
+linter-yaml-title-alias: Courses Exercises/Notes
+date of creation: Saturday, April 6th 2024, 9:58:19 am
+date modified: Sunday, May 5th 2024, 1:43:09 am
+---
+
 # Courses Exercises/Notes
 
 ## Work-in-Progress
@@ -12,7 +24,7 @@
 
 ## Done
 
-### Udemi 
+### Udemi
 
 ** Zero to Certified Entry-Level Python Prograsmmer - PCEP - Part 1 **
 
@@ -20,8 +32,8 @@
 
 ### Microsoft Learn
 
-- Copilot Adventures
+- Copilot Adventures  
 [X] 1. Echo Chamber
 
-- Challenge project
+- Challenge project  
 [X] 1. Build a minigame with GitHub Copilot and Python

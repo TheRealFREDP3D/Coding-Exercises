@@ -10,6 +10,6 @@ data = {'a': 'ce3ffc48eecfc9e0a7ccb8918e723392', 'b': '27ab104f ff5e2dce&533584b
 
 response = re.post(url , data=data )
 print(response.text)
-print(f"Status code: {response.status_code}")
+print(f'Status code: {response.status_code}')
 
-print(f"Response body: {re.json()}")
+print(f'Response body: {re.json()}')

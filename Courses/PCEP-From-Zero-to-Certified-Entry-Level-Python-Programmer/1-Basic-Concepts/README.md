@@ -1,13 +1,13 @@
 ---
-title: Module 1 - Basic Concepts
-aliases: [Zero to Certified Entry-Level Python Programmer - PCEP]
-linter-yaml-title-alias: 2. Module 1 - Basic Concepts
-tags: [udemi, python, course/video, course/full, pcep, certification, programming, print, input, variables, operators, strings, integer, float, boolean, fstrings, numeral-systems, assignments, shortcuts]
+title: 2. Module 1 - Basic Concepts
+references: 'Zero to Certified Entry-Level Python Programmer'
+Author: Frederick Pellerin
+Twitter | Github: @TheRealFredP3D
 ---
 
-# Module 1 - Basic Concepts
+# Zero to Certified Entry-Level Python Programmer - Module 1 - Basic Concepts
 
-![alt text](image.png)
+![alt text](GITHUB-TheRealFredP3D/Coding-Challenges-Exercises/Courses/Zero-to-Certified-Entry-Level-Python-Programmer/1-Basic-Concepts/image.png)
 
 ---
 
@@ -88,13 +88,18 @@ sample_decimal = 12
 
 ```python
 msg = 'Hello'+' '+'World!'
+print(msg)
+print(f'{msg}')
+# >>> Hello World
 # >>> Hello World
 ```
 
 ## Strings Multiplication
 
 ```python
-msg = "one" * 3
+msg = 'one' * 3
+print(msg)
+
 # >>> oneoneone
 ```
 
@@ -122,8 +127,7 @@ age /= 25
 
 ## Division
 
-Division operations produce a float. 
-21/7 = 3.0
+Division operations produce a float. Ex.: 21/7 = 3.0
 
 ### Operations
 

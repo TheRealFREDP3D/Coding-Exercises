@@ -2,12 +2,12 @@
 # more print
 # -----------------------------------------------------------------------------
 # a commentary                  # not executed by Python interpreter
-print('Hello')                  # 'string' = "string" = `string`
+print('Hello')                  # 'string' = 'string' = `string`
 # >>>    Hello
 # -----------------------------------------------------------------------------
 # print('I'm studying Python')  # BAD = {'''} 3X same character    
-print("I'm studying Python")    # OK = [ "'" ], [ '"' ], [ `'` ], [ `"` ] ... 
-print()                         # print() = print("\n") = "new line" = [ENTER]
+print('I'm studying Python')    # OK = [ ''' ], [ ''' ], [ `'` ], [ `'` ] ... 
+print()                         # print() = print('\n') = 'new line' = [ENTER]
 print('I\'m studying Python')   # escape with \
 # >>> I'm studying Python
 # >>>

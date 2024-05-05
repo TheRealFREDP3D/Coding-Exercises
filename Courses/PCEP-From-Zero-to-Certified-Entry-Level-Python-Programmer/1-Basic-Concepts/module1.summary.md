@@ -1,13 +1,35 @@
 ---
-title: 2. Module 1 - Basic Concepts
-references: 'Zero to Certified Entry-Level Python Programmer'
-Author: Frederick Pellerin
-Twitter | Github: @TheRealFredP3D
+reference: Udemy
+last-modified: '@@'
+status: finished/public
+title: module1.summary
+aliases: [Module 1 - Basic Concepts, PCEP - From Zero to Certified Entry-Level Python Programmer]
+linter-yaml-title-alias: Module 1 - Basic Concepts
+tags:
+  - categories/courses
+  - certifications/pcep
+  - course/video
+  - language/python
+  - provider/udemy
+  - python/boolean
+  - python/f-strings
+  - python/float
+  - python/input
+  - python/integer
+  - python/numeral-systems
+  - python/operators
+  - python/print
+  - python/programming
+  - python/variables
+  - strings
+date of creation: Saturday, April 6th 2024, 9:58:19 am
+date modified: Sunday, May 5th 2024, 1:43:10 am
 ---
 
-# Zero to Certified Entry-Level Python Programmer - Module 1 - Basic Concepts
+# Module 1 - Basic Concepts
 
-![alt text](image.png)
+[[../../../../../5e06b2ada5238e43f381059d0d8d4468_MD5.jpeg|Open: Pasted image 20240504062133.png]]  
+![[../../../../../5e06b2ada5238e43f381059d0d8d4468_MD5.jpeg]]
 
 ---
 
@@ -77,9 +99,6 @@ sample_octal = 0o17
 sample_hexadecimal = 0x123
 
 sample_decimal = 12
-
-# sample_binary = 00101101
-
 ```
 
 ---
@@ -88,18 +107,13 @@ sample_decimal = 12
 
 ```python
 msg = 'Hello'+' '+'World!'
-print(msg)
-print(f'{msg}')
-# >>> Hello World
 # >>> Hello World
 ```
 
 ## Strings Multiplication
 
 ```python
-msg = "one" * 3
-print(msg)
-
+msg = 'one' * 3
 # >>> oneoneone
 ```
 
@@ -127,7 +141,9 @@ age /= 25
 
 ## Division
 
-Division operations produce a float. Ex.: 21/7 = 3.0
+> [!NOTE]  
+> Division operations produce a float.  
+> 21/7 = 3.0
 
 ### Operations
 
