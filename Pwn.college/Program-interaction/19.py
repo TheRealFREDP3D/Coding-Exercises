@@ -1,4 +1,6 @@
 #!/bin/python3
+
+
 # /tmp/xwiaeb
 # bvfrxxiy
 
@@ -16,7 +18,7 @@ program to read the contents of the file.
 
 # Write the string to the file
 with open("/tmp/xwiaeb", 'w') as file:
-    file.write("bvfrxxiy")
+    file.write("tmhhbglw")
 
 # Open the file in read-only mode and get the file descriptor
 fd = os.open("/tmp/xwiaeb", os.O_RDONLY)
