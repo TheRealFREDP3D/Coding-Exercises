@@ -1,15 +1,3 @@
----
-title: README
-tags: []
-reference:
-last-modified:
-status:
-aliases: [Coding Exercises]
-linter-yaml-title-alias: Coding Exercises
-date of creation: Saturday, April 6th 2024, 9:58:19 am
-date modified: Sunday, May 5th 2024, 1:43:09 am
----
-
 # Coding Exercises
 
 ---
