@@ -2,7 +2,7 @@
 title: 2. Module 1 - Basic Concepts
 references: 'Zero to Certified Entry-Level Python Programmer'
 Author: Frederick Pellerin
-Twitter | Github: @TheRealFredP3D
+Twitter / Github: @TheRealFredP3D
 ---
 
 # Zero to Certified Entry-Level Python Programmer - Module 1 - Basic Concepts
