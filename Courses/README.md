@@ -10,11 +10,11 @@ date of creation: Saturday, April 6th 2024, 9:58:19 am
 date modified: Sunday, May 5th 2024, 1:43:09 am
 ---
 
-# Courses Exercises/Notes
+# Courses Exercises
 
 ## Work-in-Progress
 
-### Udemi
+### Udemy
 
 - Zero to Certified Entry-Level Python Prograsmmer - PCEP - 1st Part
 
@@ -24,7 +24,7 @@ date modified: Sunday, May 5th 2024, 1:43:09 am
 
 ## Done
 
-### Udemi
+### Udemy
 
 ** Zero to Certified Entry-Level Python Prograsmmer - PCEP - Part 1 **
 
