@@ -17,20 +17,8 @@ def compare_operations():
     test_item = 10**6 + 1  # This item is not in our set or list
 
     # TODO: Time the 100 consecutive operations of checking whether `test_item` is in `data_set` and print the result and time taken
-    start = time.time()
-    i = 0
-    while i < 100:
-        print(test_item in data_set)
-        i += 1
-    end = time.time()
-    print(end - start)
+
     # TODO: Time the 100 consecutive operations of checking whether `test_item` is in `data_list` and print the result and time taken
-    start = time.time()
-    i = 0
-    while i < 100:
-        print(test_item in data_list)
-        i += 1
-    end = time.time()
-    print(end - start)
+
 # Execute the function
 compare_operations()
