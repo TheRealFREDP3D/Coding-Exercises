@@ -1,62 +1,45 @@
 # Coding Exercises
 
----
+> "The best way to learn coding is by doing." 
 
-> A good way to learn coding is to code. 
+This repository contains the outcomes of my coding journey, including projects from coding courses, CTF (Capture The Flag) challenges, and various other programming exercises.
 
----
+## Motivation
 
-Here are the outcomes from my coding experimentation, encompassing activities undertaken during coding courses, engagements in CTF and diverse Challenges.
+I'm a strong believer in the 'Learn in Public' philosophy. Here's why I maintain this repository:
 
----
+1. It encourages me to produce and share high-quality work.
+2. It creates networking opportunities by showcasing my skills and projects.
+3. It can inspire others to embark on their learning journeys.
+4. It serves as a portfolio for potential employers, demonstrating my skills and commitment to continuous learning.
+5. As a self-learner, it helps me track my progress and stay motivated.
+6. It keeps me focused on completing current projects before moving on to new ones.
+7. It simplifies file management and organization of my learning materials.
 
-## Why
+## Goals
 
-I am a big fan of the 'Learn in Public' principles.
+- Create a comprehensive reference for personal use and notes.
+- Develop publishable notebooks and documentation.
+- Practice creating clear, effective documentation.
+- Generate content for various platforms (GitBook, Wiki, GitHub Pages, Medium articles, etc.)
 
-It put some pressure to share quality work. 
+## Learning Resources
 
-Showing what I do can help creating networking opportunities. 
+Here are some excellent platforms for learning and practicing coding skills:
 
-It can inspire people to start their own learning projects. 
+1. [CryptoHack](https://cryptohack.org)
+2. [WeChall](https://www.wechall.net)
+3. [Hack The Box](https://www.hackthebox.com)
+4. [TryHackMe](https://tryhackme.com)
+5. [pwn.college](https://pwn.college)
+6. [Hackviser](https://hackviser.com)
+7. [Root Me](https://www.root-me.org)
+8. [Nightmare](https://guyinatuxedo.github.io)
+9. [PwnTillDawn](https://online.pwntilldawn.com)
+10. [Microsoft Learn](https://learn.microsoft.com)
 
-It is a good way to show potential employer your skills or at least you appetite to learn new ones.
-
-Self-learners like me should have a way to monitor their progress.
-
-Keep me on track, finish things before moving to the next.
-
-Simplify files management
-
-## End-Game
-
-- Reference material and notes.
-- Prepare a publishable notebook.
-- Practice making good documentation.
-- Create content for GitBook, Wiki, Pages, Medium articles, etc.
-
----
-
-## Good Places to Learn
-
-(https://CryptoHack.com)[Cryptohack]
-
-(https://WeChall.net)[WeChall]
-
-(https://Hackthebox.com)[Hackthebox]
-
-(https://Tryhackme.com)[Tryhackme]
-
-(https://pwn.college.com)[pwn.college]
-
-(https://Hackviser.com)[Hackviser]
-
-(https://Root-me.org)[Root-me]
-
-(https://guyinatuxedo.github.io)[Nightmare]
-
-(https://online.pwntilldawn.com)[Pwntilldawn]
-
-(https://learn.microsoft.com)[Microsoft-Learn]
+Feel free to explore these resources and join me on this coding adventure!
 
 ---
+
+*Last updated: [Current Date]*
