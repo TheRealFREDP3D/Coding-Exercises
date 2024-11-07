@@ -1,4 +1,6 @@
-# To interact with any level you will send raw bytes over stdin to this pr># To efficiently solve these problems, first run it to see the challenge i># Then craft, assemble, and pipe your bytes to this program.
+# To interact with any level you will send raw bytes over stdin to this pr>
+
+# To efficiently solve these problems, first run it to see the challenge i># Then craft, assemble, and pipe your bytes to this program.
 
 # For instance, if you write your assembly code in the file asm.S, you can># as -o asm.o asm.S
 
