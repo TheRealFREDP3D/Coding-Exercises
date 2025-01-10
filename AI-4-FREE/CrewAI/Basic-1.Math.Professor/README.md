@@ -1,11 +1,11 @@
-# Course Planner
+# Math Tutor
 
 # Goal
 
-This is the first CrewAI powered project I worked on.
-AI agents preparing a course for a inexperienced teacher.
+This is the first CrewAI-powered project I worked on.
+A virtual math tutor
 
 # Usage
 
-- Open the script, replace the course topic
+- Edit code to replace question.
 - Execute
