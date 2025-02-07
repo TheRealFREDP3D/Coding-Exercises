@@ -1,1 +1,0 @@
-curl http://127.0.0.1 -H 'Content-type: application/json' -d '{'a': '68f83b37ae046943c9b9807b983e4718','b': {'c': '285042b0', 'd': ['691913c1', '7e450c08 14f6897e&a2d23fdc#6fb676d6']}}'
