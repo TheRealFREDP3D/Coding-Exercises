@@ -7,8 +7,10 @@
 # GitHub: https://github.com/TheRealFREDP3D ------------------------------------ #
 # X:      https://twitter.com/TheRealFredP3D ----------------------------------- #
 # ============================================================================== #
-# ---- C Fundamentals - Integers ----
-# ---- Signed Quiz Solution ----
+# ---- C Fundamentals ----
+# ---- Integers ----
+# ---- Signed ----
+# ---- Solution ----
 
 import interact
 import struct

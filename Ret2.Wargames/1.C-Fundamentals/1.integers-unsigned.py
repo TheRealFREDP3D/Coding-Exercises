@@ -35,14 +35,16 @@ p.sendline('1')
 p.readuntil('quiz...')
 p.sendline('\n')
 
-# ---- PROGRAM OUTPUT ----
-#
+"""
+# Program Output:
+# #####################
 # ---- SKILL QUIZ ----
 # What will the following C code print?
 #     unsigned int bar = 0xAD42DE2B;
 #     printf("%u", bar);
 #
 # Enter Answer:
+"""
 
 p.readuntil('bar = ')
 answer = p.readuntil(';\n')
@@ -51,10 +53,14 @@ print(answer)  # This will print the hexadecimal string
 
 # Remove ANSI color codes
 answer_clean = re.sub(b'\x1b\[[0-9;]*m', b'', answer)
+
+# DEBUG
 # print(answer_clean)  # This will print the clean hexadecimal string
 
 # Convert hexadecimal string to integer
 answer_int = int(answer_clean, 16)
+
+# DEBUG
 # print(answer_int)  # This will print the integer value
 
 # Send the integer value as a string to the program

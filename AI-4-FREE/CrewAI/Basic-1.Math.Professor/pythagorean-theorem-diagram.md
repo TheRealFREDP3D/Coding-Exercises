@@ -1,3 +1,6 @@
+# Pythagorean Theorem Diagram
+
+```mermaid
 graph LR
     A[Software Engineers] -->|Listening Intently| B(Pythagoras)
     B -->|Introduces| C[Pythagorean Triple: 3,4,5]
@@ -15,3 +18,4 @@ graph LR
     M --> N[Step 4: Compare Sum and Hypotenuse Square]
     N --> O[Identical? Yes]
     O --> P[Pythagorean Theorem Proven]
+```
