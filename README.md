@@ -1,6 +1,6 @@
 # Coding Exercises
 
-> "The best way to learn coding is by doing." 
+> "The best way to learn coding is by doing."
 
 This repository contains the outcomes of my coding journey, including projects from coding courses, CTF (Capture The Flag) challenges, and various other programming exercises.
 
@@ -31,12 +31,13 @@ Here are some excellent platforms for learning and practicing coding skills:
 2. [WeChall](https://www.wechall.net)
 3. [Hack The Box](https://www.hackthebox.com)
 4. [TryHackMe](https://tryhackme.com)
-5. [pwn.college](https://pwn.college)
+5. [pwn.college](https://pwn.college) - I removed my solutions for the Pwn College to comply to their rules.
 6. [Hackviser](https://hackviser.com)
 7. [Root Me](https://www.root-me.org)
 8. [Nightmare](https://guyinatuxedo.github.io)
 9. [PwnTillDawn](https://online.pwntilldawn.com)
 10. [Microsoft Learn](https://learn.microsoft.com)
+11. 10. [Exersism](https://exersism.com)
 
 Feel free to explore these resources and join me on this coding adventure!
 
