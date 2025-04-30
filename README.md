@@ -1,6 +1,3 @@
-Here's the raw markdown for your README:
-
-```markdown
 # Coding Exercises
 
 > "The best way to learn coding is to code."
@@ -41,4 +38,14 @@ Here are some excellent platforms for learning and practicing coding skills:
 7. [Root Me](https://www.root-me.org)
 8. [Nightmare](https://guyinatuxedo.github.io)
 9. [PwnTillDawn](https://online.pwntilldawn.com)
-10. [Microsoft Learn](https://
+10. [Microsoft Learn](https://learn.microsoft.com)
+11. [Codesignal](https://codesignal.com) 
+12. [Exercism](https://exercism.org)
+
+I recommend these free resources to anyone like me, who love to learn new stuff and to challenge themselves.
+
+Join me on this adventure!
+
+---
+
+*Last updated: 30-04-2025*
