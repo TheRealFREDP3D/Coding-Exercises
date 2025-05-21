@@ -1,15 +1,11 @@
-# AI-4-FREE
+# AI-4-FREE Directory
 
-## Author
+This directory contains projects, experiments, and notes related to free Artificial Intelligence tools and technologies.
 
-Frederick Pellerin
+## Key Subdirectories
 
-X/GitHub: @TheRealFredP3D
+- **Autogen**: Experiments and examples using the Microsoft Autogen framework.
+- **CrewAI**: Projects and examples built with the CrewAI framework for multi-agent systems.
+- **Ollama**: Scripts and notes for using Ollama to run large language models locally.
 
-## What is it
-
-I test and collect a lot of mixed stuff that I run locally using Ollama and open-source LLM models.
-
-Here will be gathered my successful experiments.
-
-Feel free to grab anything you find interesting and have fun!
+For more specific details, refer to the `README.md` files within each key subdirectory.
