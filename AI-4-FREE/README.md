@@ -8,4 +8,4 @@ This directory contains projects, experiments, and notes related to free Artific
 - **CrewAI**: Projects and examples built with the CrewAI framework for multi-agent systems.
 - **Ollama**: Scripts and notes for using Ollama to run large language models locally.
 
-Refer to the `README.md` file within this directory for more specific details about the `AI-4-FREE` projects.
+For more specific details, refer to the `README.md` files within each key subdirectory.
